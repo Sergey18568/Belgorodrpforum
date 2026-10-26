@@ -1,0 +1,8 @@
+forum.db
+forum_backup.db
+forum_before_render.db
+forum_before_*.db
+*.db
+__pycache__/
+*.pyc
+.env
